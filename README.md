@@ -10,11 +10,11 @@
 
 <br />
 
+<a href="https://github.com/spaceyzx216/infimind-react">infimind-react</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/spaceyzx216/xiehui-agent">xiehui-agent</a>
+&nbsp;·&nbsp;
 <a href="https://github.com/spaceyzx216/xiaomang">xiaomang</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/spaceyzx216/ai-project-assistant">ai-project-assistant</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/spaceyzx216/douyin-duibiao">douyin-duibiao</a>
 
 </div>
 
